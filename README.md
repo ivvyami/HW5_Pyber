@@ -18,7 +18,7 @@ The pie charts show the percentage of total fares, rides, and drivers by city ty
 * Urban and Suburban cities have a higher percentage of Fares
 
 
-![Image3](percent_of_Total_ Rides_isoto.png)
+![Image3](percent_of_Total_Rides_isoto.png)
 * Urban and Suburban cities have a higher percentage of Rides
 
 
